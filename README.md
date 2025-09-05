@@ -40,7 +40,7 @@ When exporting, THOR will use the last import directory as the default. If that'
 
 - Open (double-click) the first event.
 
-- Click the ASCII export button ![ascii](img\ascii.png) in the toolbar. This will allow you to choose an output directory and save the exported file there.
+- Click the ASCII export button ![ascii](img/ascii.png) in the toolbar. This will allow you to choose an output directory and save the exported file there.
 
 - Close the *Event Report* by clicking on the *Manage Events* button
 
@@ -64,9 +64,9 @@ In order for the script to work correctly, the main window must look like this:
 
 When you double-click an event, the resulting window must look like this:
 
-![report](img\report.png)
+![report](img/report.png)
 
-Importantly, the  ![ascii](img\ascii.png)button must be visible.
+Importantly, the  ![ascii](img/ascii.png)button must be visible.
 
 The export starts in the main window.
 
@@ -85,7 +85,7 @@ This means that, if something goes wrong with the export, you will have the alre
 
 The script cannot determine the number of events in the list, so this is something you will have to provide. On startup the script will show a dialogue, expecting you to enter the number of events to be converted. You can find this number at the bottom of the main screen (41 events in the sample picture above).
 
-![event_count](D:\usr\Jormungandr\img\event_count.png)
+![event_count](img/event_count.png)
 
 This can also be used to test the working of the script by, e.g., entering 1, to process just one event.
 
