@@ -55,7 +55,7 @@ When exporting, THOR will use the last import directory as the default. If that'
 
 In order for the script to work correctly, the main window must look like this:
 
-![main](img\main.png)
+![main](img/main.png)
 
  Importantly
 
